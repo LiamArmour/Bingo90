@@ -3,6 +3,8 @@ logs/*
 tmp
 .DS_Store
 .idea
+
+
 .build
 npm-debug.log
 **/bower_components/
